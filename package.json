@@ -1,0 +1,20 @@
+{
+  "name": "broccoli-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Brocfile.js",
+  "dependencies": {
+    "broccoli-sass": "^0.6.4",
+    "broccoli": "^0.15.3",
+    "broccoli-merge-trees": "^0.2.1"
+  },
+  "devDependencies": {
+    "broccoli-babel-transpiler": "^5.0.0",
+    "broccoli-funnel": "^0.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
