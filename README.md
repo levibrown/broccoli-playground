@@ -13,5 +13,5 @@ broccoli playground for static files, es6 and scss
 
 ## Usage
 
-* start broccoli server `broccoli server` and navigate to localhost:4200
+* start broccoli server `broccoli serve` and navigate to localhost:4200
 * more info at [http://broccolijs.com/](http://broccolijs.com/)
